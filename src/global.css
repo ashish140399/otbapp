@@ -1,0 +1,12 @@
+*{
+    font-family: 'Exo', sans-serif;
+}
+
+.btn-main{
+    background: #fff;
+    border-radius: 10px;
+    color: #000;
+    text-decoration: none;
+    padding: 10px 26px;
+    font-weight: 600;
+}
